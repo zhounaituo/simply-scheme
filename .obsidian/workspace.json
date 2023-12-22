@@ -1,0 +1,177 @@
+{
+  "main": {
+    "id": "72d7aab86f2cfa31",
+    "type": "split",
+    "children": [
+      {
+        "id": "06de4d131083e2fe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "52d274d9e79f55b1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5. Words and Sentences.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7e14cccbaeccbdaa",
+    "type": "split",
+    "children": [
+      {
+        "id": "0a5d5e11b7ee9af8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "567029ca0031f5f2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "13ce66437c41e543",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3629a3f5f95e16ef",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 221.5
+  },
+  "right": {
+    "id": "f1c49104513977c2",
+    "type": "split",
+    "children": [
+      {
+        "id": "ec4b24591877d201",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "343e92c52e8f15bf",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "5. Words and Sentences.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fc7d35be1ebd801f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "5. Words and Sentences.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "af0d11f330e33ed6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "63ee3633c343abcb",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "5. Words and Sentences.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "templater-obsidian:Templater": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "52d274d9e79f55b1",
+  "lastOpenFiles": [
+    "2. Functions.md",
+    "5. Words and Sentences.md",
+    "4. Define.md",
+    "3. Expression.md",
+    "sources/images/Define.png",
+    "0. Prepare.md",
+    "sources/images/exercise-3-6-plumbing-diagram.png",
+    "Pasted image 20231218130329.png",
+    "sources/images/exercises-3.1.png",
+    "sources/images/compound-expression-and-subespression.png",
+    "sources/images",
+    "README.md",
+    "sources/simply/ttt.scm",
+    "sources/simply/spread.scm",
+    "sources/simply/newttt.scm",
+    "sources/simply/match.scm",
+    "sources/simply/functions.scm",
+    "sources/simply/database.scm",
+    "sources/simply/simply.scm",
+    "sources/simply/scp40040",
+    "sources/simply",
+    "[.md"
+  ]
+}
