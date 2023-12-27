@@ -1,0 +1,6 @@
+(define (roots a b c)
+  (let ((discriminant (sqrt (- (* b b) (* 4 a c))))
+	(minus-b (-b))
+	(two-a (* 2 a)))
+    (se (/ (+ minus-b discriminant) two-a)
+	(/ (- minus-b discriminant) two-a))))

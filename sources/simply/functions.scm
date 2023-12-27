@@ -1,7 +1,7 @@
 ;;; The functions program
 
 (define (functions)
-  (read-line)
+;;  (read-line)
   (show "Welcome to the FUNCTIONS program.")
   (functions-loop))
 

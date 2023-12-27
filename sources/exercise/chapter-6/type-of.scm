@@ -1,0 +1,5 @@
+(define (type-of it)
+  (cond ((number? it) 'number)
+	((word? it) 'word)
+	((sentence? it) 'sentence)
+	((boolean? it) 'boolean)))

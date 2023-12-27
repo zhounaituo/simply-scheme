@@ -1,0 +1,6 @@
+(define (greet sent)
+  (cond ((equal? '(david livingstone) sent) (se 'dr (last sent) 'i 'presume?))
+	((member? 'queen sent) '(hello your majesty))
+	((and (member? 'dr sent) (member? 'king sent)) (se 'hello 'dr 'king))
+	((member? 'dr sent) (se 'hello 'dr (last sent)))
+	(else (se 'hello (first sent)))))

@@ -1,0 +1,5 @@
+(define (integer-quotient big little)
+    (and (divisible? big little)
+         (/ big little)))
+(define (divisible? big little)
+    (= (remainder big little) 0))

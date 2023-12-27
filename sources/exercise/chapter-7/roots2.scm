@@ -1,0 +1,5 @@
+(define (roots a b c)
+  (roots1 a b c (sqrt (- (* b b) (* 4 a c)))))
+(define (roots1 a b c discriminant)
+  (se (/ (+ (- b) discriminant) (* 2 a))
+      (/ (- (- b) discriminant) (* 2 a))))

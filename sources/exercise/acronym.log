@@ -1,0 +1,24 @@
+MIT/GNU Scheme running under GNU/Linux
+Type `^C' (control-C) followed by `H' to obtain information about interrupts.
+
+Copyright (C) 2020 Massachusetts Institute of Technology
+This is free software; see the source for copying conditions. There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+
+Image saved on Thursday March 17, 2022 at 6:50:34 PM
+  Release 11.2 || SF || LIAR/x86-64
+;Loading "/home/zhounaituo/.scheme.init"...
+;  Loading "/home/zhounaituo/Desktop/application/scheme/simply/simply.scm"... done
+;... done
+
+1 ]=> (define (acronym phrase)
+    (accumulate word (every first (keep real-word? phrase))))
+;Value: acronym
+
+1 ]=> (define (real-word? wd)
+    (not (member? wd '(a the an in of and for to with))))
+;Value: real-word?
+
+1 ]=> 
+End of input stream reached.
+..#]^@^@^@ NO CARRIER

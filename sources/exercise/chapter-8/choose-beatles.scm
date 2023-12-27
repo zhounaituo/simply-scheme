@@ -1,0 +1,6 @@
+(define (ends-vowel? wd) (vowel? (last wd)))
+(define (even-count? wd) (even? (count wd)))
+(define (vowel? letter)
+  (member? letter '(a e i o u)))
+(define (choose-beatles fx)
+  (keep fx '(John Paul George Ringo)))
