@@ -1,6 +1,5 @@
 ;;; simply.scm version 3.13 (8/11/98)
-;;; (Numbered to agree with berkeley.scm version.)
-
+;;; (Numbered to agree with berkeley.scm version.) 
 
 ;;; This file uses Scheme features we don't talk about in _Simply_Scheme_.
 ;;; Read at your own risk.
@@ -1162,3 +1161,5 @@
 ;; Add the default libarary loading method: 
 (define (book-load filename)
     (load (string-append "/home/zhounaituo/Desktop/application/scheme/" filename)))
+(define (exercise filename)
+    (load (string-append "/mnt/d/Users/admin/Desktop/GitHub/simply-scheme/sources/exercise/" filename)))

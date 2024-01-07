@@ -1,0 +1,7 @@
+(define (exaggerate sent)
+  (every replace sent))
+(define (replace wd)
+  (cond ((number? wd) (* wd 2))
+	((equal? wd 'good) 'great)
+	((equal? wd 'bad) 'terrible)
+	(else wd)))

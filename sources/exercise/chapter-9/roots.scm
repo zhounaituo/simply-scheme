@@ -1,0 +1,5 @@
+(define (roots a b c)
+  ((lambda (discriminant)
+     (se (/ (+ (- b) discriminant) (* 2 a))
+	 (/ (- (- b) discriminant) (* 2 a))))
+   (sqrt (- (* b b) (* 4 a c)))))

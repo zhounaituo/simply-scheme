@@ -1,0 +1,5 @@
+(define (pigl-sent sent)
+  (if (empty? sent)
+      '()
+      (se (pigl (first sent))
+          (pigl-sent (bf sent)))))

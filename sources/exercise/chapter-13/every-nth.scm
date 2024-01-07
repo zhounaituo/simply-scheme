@@ -1,0 +1,6 @@
+(define (every-nth num sent)
+  (if (< (count sent) num)
+      '()
+      (if (= num 0) 
+          (se (first sent) (every-nth (- num 1) (bf sent)))
+          (every-nth (- num 1) (bf sent)))))

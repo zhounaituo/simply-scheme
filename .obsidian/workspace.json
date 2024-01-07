@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "7fedaf16fd7b0a74",
+        "id": "927c92678e37162a",
         "type": "tabs",
         "children": [
           {
-            "id": "48aee37dabc6aee3",
+            "id": "c7e02c41bd8b3617",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "8. Higher-Order Functions.md",
+                "file": "14.Common Patterns in Recursive Procedures.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "特殊形式",
+                "query": "半",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 221.5,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "f1c49104513977c2",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "8. Higher-Order Functions.md",
+                "file": "14.Common Patterns in Recursive Procedures.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "8. Higher-Order Functions.md",
+                "file": "14.Common Patterns in Recursive Procedures.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "8. Higher-Order Functions.md"
+                "file": "14.Common Patterns in Recursive Procedures.md"
               }
             }
           }
@@ -150,36 +149,44 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "48aee37dabc6aee3",
+  "active": "c7e02c41bd8b3617",
   "lastOpenFiles": [
-    "sources/exercise/chapter-8/transform-beatles.scm~",
-    "sources/exercise/chapter-8/4913",
-    "sources/exercise/chapter-8/transform-beatles.scm",
-    "sources/exercise/chapter-8/choose-beatles.scm~",
-    "sources/exercise/chapter-8/choose-beatles.scm",
+    "sources/exercise/chapter-13/every-nth.scm",
+    "sources/exercise/chapter-13/acronym.scm~",
+    "sources/exercise/chapter-13/4913",
+    "sources/exercise/chapter-13/acronym.scm",
+    "sources/exercise/chapter-13/safe-pigl.scm~",
+    "sources/exercise/chapter-13/safe-pigl.scm",
+    "sources/exercise/chapter-13/add-numbers.scm",
+    "sources/exercise/chapter-13/addup.scm~",
+    "sources/exercise/chapter-13/addup.scm",
+    "sources/exercise/chapter-13/doubles.scm",
+    "sources/exercise/chapter-13/keep-vowels.scm~",
+    "14.Common Patterns in Recursive Procedures.md",
+    "13.How Recursion Works.md",
+    "12. The Leap of Faith.md",
+    "6. True and False.md",
+    "2. Functions.md",
+    "sources/images/math1.gif",
+    "10. Recursion.md",
+    "9. Lambda.md",
+    "sources/images/recursion.png",
+    "Example.Tic-Tac-Toe.md",
+    "3. Expression.md",
+    "Project.Scoring Bridge Hads.md",
+    "8. Higher-Order Functions.md",
+    "7. Variables.md",
     "sources/images/let.png",
     "sources/images/keep.jpg",
-    "8. Higher-Order Functions.md",
-    "6. True and False.md",
-    "sources/exercise/chapter-8/spell-digit.scm~",
-    "sources/exercise/chapter-8/spell-digit.scm",
-    "sources/exercise/chapter-8/any-number.scm",
-    "sources/exercise/chapter-8/item.scm",
     "sources/images/higher-order.png",
-    "3. Expression.md",
     "4. Define.md",
     "5. Words and Sentences.md",
     "sources/images/accumulate.jpg",
     "sources/images/every.jpg",
-    "sources/exercise/chapter-8/acronym.scm~",
-    "sources/exercise/chapter-8/acronym.scm",
-    "7. Variables.md",
     "sources/images/exercises-3.1.png",
     "0. Prepare.md",
-    "2. Functions.md",
     "sources/images/cond.png",
     "sources/images/Define.png",
-    "sources/images/exercise-3-6-plumbing-diagram.png",
     "README.md",
     "[.md"
   ]

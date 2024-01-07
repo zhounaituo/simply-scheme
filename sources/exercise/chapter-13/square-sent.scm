@@ -1,0 +1,5 @@
+(define (square-sent sent)
+  (if (empty? sent)
+      '()
+      (se (square (first sent))
+          (square-sent (bf sent)))))
