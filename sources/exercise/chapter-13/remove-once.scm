@@ -1,0 +1,6 @@
+(define (remove-once wd sent)
+  (if (empty? sent)
+      '()
+      (if (equal? wd (first sent))
+          (remove-once wd (bf sent))
+          (se (first sent) (remove-once wd (bf sent))))))

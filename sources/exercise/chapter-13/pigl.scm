@@ -1,0 +1,8 @@
+(define (pigl wd)
+  (pigl-helper wd (count wd) wd))
+(define (pigl-helper wd num origin)
+  (if (<= num 0)
+      (word origin 'ay)
+      (if (member? (first wd) 'aeiou) 
+          (word wd 'ay)
+          (pigl-helper (bf wd) (- num 1) origin))))

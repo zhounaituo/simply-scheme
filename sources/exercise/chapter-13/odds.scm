@@ -1,0 +1,8 @@
+(define (odds sent)
+  (odds-helper 2 2 sent))
+(define (odds-helper num cou sent)
+  (if (empty? sent)
+      '()
+      (if (= cou 1)
+          (odds-helper num num (bf sent))
+          (se (first sent) (odds-helper num (- cou 1) (bf sent))))))
