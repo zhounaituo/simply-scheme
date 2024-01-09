@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "927c92678e37162a",
+        "id": "217350dc10ab2b22",
         "type": "tabs",
         "children": [
           {
-            "id": "c7e02c41bd8b3617",
+            "id": "59a9ac23374e9298",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "14.Common Patterns in Recursive Procedures.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6129745eee4b86bc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Project.Spelling Names of Huge Numbers.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project.Spelling Names of Huge Numbers.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project.Spelling Names of Huge Numbers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Project.Spelling Names of Huge Numbers.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -162,21 +141,21 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6129745eee4b86bc",
+  "active": "59a9ac23374e9298",
   "lastOpenFiles": [
-    "sources/exercise/project/number-name.scm~",
+    "sources/exercise/project/sum-time.scm~",
     "sources/exercise/project/4913",
-    "sources/exercise/project/number-name.scm",
-    "14.Common Patterns in Recursive Procedures.md",
+    "sources/exercise/project/sum-time.scm",
     "Project.Spelling Names of Huge Numbers.md",
+    "sources/exercise/project/number-name.scm~",
+    "14.Common Patterns in Recursive Procedures.md",
+    "sources/exercise/project/number-name.scm",
     "sources/exercise/chapter-13/merge.scm~",
     "sources/exercise/chapter-13/4913",
     "sources/exercise/chapter-13/syllables.scm~",
     "sources/exercise/chapter-13/syllables.scm",
     "sources/exercise/chapter-13/merge.scm",
     "sources/exercise/chapter-13/same-shape.scm~",
-    "sources/exercise/chapter-13/same-shape.scm",
-    "sources/exercise/chapter-13/pigl.scm~",
     "12. The Leap of Faith.md",
     "13.How Recursion Works.md",
     "0. Prepare.md",
