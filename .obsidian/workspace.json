@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "217350dc10ab2b22",
+        "id": "9d84215be327f1c8",
         "type": "tabs",
         "children": [
           {
-            "id": "59a9ac23374e9298",
+            "id": "20e9a29167c76101",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "15. Advanced Recursion.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "15. Advanced Recursion.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "15. Advanced Recursion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "15. Advanced Recursion.md"
+              }
             }
           }
         ],
@@ -141,29 +149,30 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "59a9ac23374e9298",
+  "active": "20e9a29167c76101",
   "lastOpenFiles": [
-    "sources/exercise/project/sum-time.scm~",
-    "sources/exercise/project/4913",
-    "sources/exercise/project/sum-time.scm",
-    "Project.Spelling Names of Huge Numbers.md",
-    "sources/exercise/project/number-name.scm~",
+    "sources/exercise/chapter-15/subsets.scm~",
+    "sources/exercise/chapter-15/4913",
+    "sources/exercise/chapter-15/subsets.scm",
     "14.Common Patterns in Recursive Procedures.md",
-    "sources/exercise/project/number-name.scm",
-    "sources/exercise/chapter-13/merge.scm~",
-    "sources/exercise/chapter-13/4913",
-    "sources/exercise/chapter-13/syllables.scm~",
-    "sources/exercise/chapter-13/syllables.scm",
-    "sources/exercise/chapter-13/merge.scm",
-    "sources/exercise/chapter-13/same-shape.scm~",
     "12. The Leap of Faith.md",
+    "10. Recursion.md",
     "13.How Recursion Works.md",
+    "15. Advanced Recursion.md",
+    "sources/exercise/chapter-15/mergesort.scm~",
+    "sources/exercise/chapter-15/mergesort.scm",
+    "sources/exercise/chapter-15/form-binary2.scm",
+    "sources/exercise/chapter-15/form-binary.scm~",
+    "sources/exercise/chapter-15/form-binary.scm",
+    "sources/exercise/chapter-15/sort.scm~",
+    "sources/exercise/chapter-15/sort.scm",
+    "sources/exercise/chapter-15",
+    "Project.Spelling Names of Huge Numbers.md",
     "0. Prepare.md",
     "Example.Tic-Tac-Toe.md",
     "6. True and False.md",
     "2. Functions.md",
     "sources/images/math1.gif",
-    "10. Recursion.md",
     "9. Lambda.md",
     "sources/images/recursion.png",
     "3. Expression.md",
