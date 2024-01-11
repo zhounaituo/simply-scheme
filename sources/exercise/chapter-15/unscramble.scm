@@ -1,0 +1,17 @@
+; (unscramble '(this is the roach the gladiator killed))
+; -> (this is the gladiator that killed the roach)
+(define (unscramble sent)
+  (
+; (noun '(this is the roach the gladiator killed)) -> (roach gladiator)
+(define (noun sent)
+  (if (empty? sent)
+      '()
+      (if (equal? (first sent) 'the)
+          (se (first (bf sent)) (noun (bf sent)))
+          (noun (bf sent)))))
+; (predicate '(this is the roach the gladiator killed)) -> (killed)
+(define (predicate sent)
+  (cond ((or (empty? sent) (equal? (last (bl sent)) 'the)) '())
+        (else (se (predicate (bl sent)) (last sent)))))
+(define (residue sent)
+
