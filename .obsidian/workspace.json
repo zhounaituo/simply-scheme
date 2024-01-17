@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "9d84215be327f1c8",
+        "id": "4b31cdc8c6b4b6cb",
         "type": "tabs",
         "children": [
           {
-            "id": "20e9a29167c76101",
+            "id": "ab7fd40c83f7fcd9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "15. Advanced Recursion.md",
+                "file": "12. The Leap of Faith.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "15. Advanced Recursion.md",
+                "file": "12. The Leap of Faith.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "15. Advanced Recursion.md",
+                "file": "12. The Leap of Faith.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "15. Advanced Recursion.md"
+                "file": "12. The Leap of Faith.md"
               }
             }
           }
@@ -149,26 +149,26 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "20e9a29167c76101",
+  "active": "ab7fd40c83f7fcd9",
   "lastOpenFiles": [
-    "sources/exercise/chapter-15/unscramble.scm~",
+    "sources/exercise/project/poker-value.scm~",
+    "sources/exercise/project/4913",
+    "13.How Recursion Works.md",
+    "14.Common Patterns in Recursive Procedures.md",
+    "12. The Leap of Faith.md",
+    "10. Recursion.md",
+    "2. Functions.md",
+    "sources/exercise/project/poker-value.scm",
+    "Project.Scoring Poker Hands.md",
+    "sources/exercise/chapter-15/poker-value.scm~",
     "sources/exercise/chapter-15/4913",
+    "sources/exercise/chapter-15/poker-value.scm",
+    "15. Advanced Recursion.md",
+    "sources/exercise/chapter-15/unscramble.scm~",
     "sources/exercise/chapter-15/unscramble.scm",
     "sources/exercise/chapter-15/phone-spell.scm~",
     "sources/exercise/chapter-15/phone-spell.scm",
-    "sources/exercise/chapter-15/substring.scm~",
-    "sources/exercise/chapter-15/substring.scm",
-    "sources/exercise/chapter-15/substrings.scm~",
-    "sources/exercise/chapter-15/substrings.scm",
-    "10. Recursion.md",
     "9. Lambda.md",
-    "15. Advanced Recursion.md",
-    "14.Common Patterns in Recursive Procedures.md",
-    "13.How Recursion Works.md",
-    "12. The Leap of Faith.md",
-    "sources/exercise/chapter-15/palindrome.scm~",
-    "sources/exercise/chapter-15/palindrome.scm",
-    "2. Functions.md",
     "Project.Spelling Names of Huge Numbers.md",
     "0. Prepare.md",
     "Example.Tic-Tac-Toe.md",

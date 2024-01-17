@@ -1,0 +1,8 @@
+(define (syllables wd)
+  (if (< (count wd) 2)
+      (if (vowel? wd) 1 0)
+      (if (and (vowel? (first wd)) (not (vowel? (first (bf wd)))))         
+          (+ 1 (syllables (bf wd)))
+          (+ 0 (syllables (bf wd))))))
+(define (vowel? letter)
+  (member? letter 'aeiou))
