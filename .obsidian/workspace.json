@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "12. The Leap of Faith.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "12. The Leap of Faith.md",
+                "file": "README.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "12. The Leap of Faith.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "12. The Leap of Faith.md"
+                "file": "README.md"
               }
             }
           }
@@ -151,11 +151,12 @@
   },
   "active": "ab7fd40c83f7fcd9",
   "lastOpenFiles": [
+    "0. Prepare.md",
+    "12. The Leap of Faith.md",
     "sources/exercise/project/poker-value.scm~",
     "sources/exercise/project/4913",
     "13.How Recursion Works.md",
     "14.Common Patterns in Recursive Procedures.md",
-    "12. The Leap of Faith.md",
     "10. Recursion.md",
     "2. Functions.md",
     "sources/exercise/project/poker-value.scm",
@@ -170,7 +171,6 @@
     "sources/exercise/chapter-15/phone-spell.scm",
     "9. Lambda.md",
     "Project.Spelling Names of Huge Numbers.md",
-    "0. Prepare.md",
     "Example.Tic-Tac-Toe.md",
     "6. True and False.md",
     "sources/images/math1.gif",

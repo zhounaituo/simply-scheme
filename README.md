@@ -9,6 +9,8 @@
 - STK-Scheme 其他下载站点： https://ibiblio.org/pub/linux/devel/lang/lisp
 - STKlos 下载点： https://stklos.net/download.html
 - MIT-Scheme 的使用说明： https://www.math.pku.edu.cn/teachers/qiuzy/progtech/scheme/mit_scheme.htm
+- cs61a 档案馆：[CS61A Home Page (berkeley.edu)](https://inst.eecs.berkeley.edu/~cs61a/archives.html)
+
 
 ## 遗留问题
 
